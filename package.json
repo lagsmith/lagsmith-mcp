@@ -1,6 +1,6 @@
 {
   "name": "lagsmith-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mcpName": "com.lagsmith/mcp",
   "description": "MCP server for Lagsmith: let AI coding agents slow down, break and mock one app's network on a Mac, including iOS Simulator apps.",
   "keywords": [

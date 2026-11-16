@@ -15,7 +15,7 @@ With it, an agent can:
 ## Requirements
 
 - macOS 13 Ventura or later, on Apple silicon or Intel
-- [Lagsmith](https://lagsmith.com/download) in your Applications folder, running, with **Allow Automation** on (menu bar icon › Automation). Lagsmith is free during the beta.
+- [Lagsmith](https://lagsmith.com/download) in your Applications folder, running, with **Allow Automation** on (menu bar icon › Automation). Automation, including MCP, is part of Lagsmith Pro, and every install starts with a free 14-day Pro trial. See [pricing](https://lagsmith.com/pricing).
 - Node.js 18 or later for the `npx` setup below, or [skip Node](#without-nodejs) and use the server inside the app
 
 ## Setup
