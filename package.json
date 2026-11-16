@@ -1,0 +1,40 @@
+{
+  "name": "lagsmith-mcp",
+  "version": "1.0.0",
+  "mcpName": "com.lagsmith/mcp",
+  "description": "MCP server for Lagsmith: let AI coding agents slow down, break and mock one app's network on a Mac, including iOS Simulator apps.",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "ios-simulator",
+    "network-link-conditioner",
+    "network-throttling",
+    "airplane-mode",
+    "api-mocking",
+    "claude-code",
+    "cursor",
+    "xcode",
+    "macos"
+  ],
+  "homepage": "https://lagsmith.com/docs/mcp",
+  "bugs": {
+    "url": "https://github.com/shabbirv/lagsmith-mcp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shabbirv/lagsmith-mcp.git"
+  },
+  "license": "MIT",
+  "author": "ShabzCo LLC (https://lagsmith.com)",
+  "bin": {
+    "lagsmith-mcp": "bin/lagsmith-mcp.js"
+  },
+  "files": [
+    "bin/",
+    "tools.json"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
