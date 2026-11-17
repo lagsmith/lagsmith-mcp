@@ -28,7 +28,7 @@ claude mcp add --scope user lagsmith -- npx -y lagsmith-mcp
 
 `--scope user` makes Lagsmith available in every project. Start a new session and run `/mcp` to check it's connected.
 
-### Cursor, Claude Desktop, Windsurf and other JSON configs
+### Cursor, Claude Desktop, Windsurf, Cline and other JSON configs
 
 ```json
 {
@@ -46,6 +46,7 @@ claude mcp add --scope user lagsmith -- npx -y lagsmith-mcp
 | Cursor | `~/.cursor/mcp.json`, or `.cursor/mcp.json` in a project |
 | Claude Desktop | Settings › Developer › Edit Config, then restart Claude Desktop |
 | Windsurf | `~/.codeium/windsurf/mcp_config.json` |
+| Cline | MCP Servers icon › Configure › Configure MCP Servers (opens `cline_mcp_settings.json`) |
 
 If the file already has other servers, add the `lagsmith` entry inside the existing `mcpServers` section.
 
