@@ -19,11 +19,11 @@
   ],
   "homepage": "https://lagsmith.com/docs/mcp",
   "bugs": {
-    "url": "https://github.com/shabbirv/lagsmith-mcp/issues"
+    "url": "https://github.com/lagsmith/lagsmith-mcp/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shabbirv/lagsmith-mcp.git"
+    "url": "git+https://github.com/lagsmith/lagsmith-mcp.git"
   },
   "license": "MIT",
   "author": "ShabzCo LLC (https://lagsmith.com)",

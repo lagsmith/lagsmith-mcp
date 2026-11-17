@@ -5,7 +5,7 @@
   "description": "Let AI agents slow down, break or mock one app's network on a Mac, including iOS Simulator apps.",
   "websiteUrl": "https://lagsmith.com/docs/mcp",
   "repository": {
-    "url": "https://github.com/shabbirv/lagsmith-mcp",
+    "url": "https://github.com/lagsmith/lagsmith-mcp",
     "source": "github"
   },
   "icons": [
