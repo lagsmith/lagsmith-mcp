@@ -2,6 +2,8 @@
 
 # Lagsmith MCP server
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/shabbirv-lagsmith-mcp-zutdv7?v=4432f5bb014a8e500323cfca3ce1c549)](https://m8ven.ai/mcp/shabbirv-lagsmith-mcp-zutdv7?s=readme)
+
 Let your AI coding agent test your app on bad networks. This [MCP](https://modelcontextprotocol.io) server lets Claude Code, Cursor, Codex, Claude Desktop, Windsurf and other MCP clients slow down, break and mock the network of **one app at a time** on your Mac, including iOS Simulator apps, using [Lagsmith](https://lagsmith.com). Only the app under test is affected, so the agent's own connection, your terminal and your test runners stay at full speed.
 
 With it, an agent can:
